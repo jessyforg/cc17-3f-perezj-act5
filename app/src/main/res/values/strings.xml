@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cc17–3f-perezj-act5</string>
+    <string name="first_image">Mona Lisa</string>
+    <string name="second_image">Starry Night</string>
+    <string name="third_image">The Kiss</string>
+    <string name="forth_image">Composition with Red Blue and Yellow</string>
+    <string name="fifth_image">Les Demoiselles d\'Avignon</string>
+    <string name="author">\@jessyforg</string>
+    <string name="year">2024</string>
+</resources>
